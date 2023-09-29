@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1> Olá, eu voltei. </h1>
+        <h1> Jocy, agora vai, se não for dessa vez que eu construo um site que me deixa milionário eu desisto ok? </h1>
     )
 }
 
